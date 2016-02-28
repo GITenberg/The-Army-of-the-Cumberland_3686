@@ -1,0 +1,25 @@
+_repo: The-Army-of-the-Cumberland_3686
+creator:
+  author:
+    agent_name: Cist, Henry Martyn
+    birthdate: 1839
+    deathdate: 1902
+    gutenberg_agent_id: '1265'
+    url: http://www.gutenberg.org/2009/agents/1265
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3686'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- Army of the Cumberland'
+title: The Army of the Cumberland
+url: http://www.gutenberg.org/ebooks/3686
